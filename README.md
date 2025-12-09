@@ -67,4 +67,5 @@ The dataset used is **Bank Customers Churn Dataset** (e.g., `Churn_Modelling.csv
 ## :sparkles: Streamlit
 
 🔗 Live Demo  
-👉 [click here to open the Streamlit App](https://bank-churn-prediction-using-simple-ann.streamlit.app/)
+👉 [click here to open the Streamlit App](https://bank-churn-prediction-ann.streamlit.app/)
+
